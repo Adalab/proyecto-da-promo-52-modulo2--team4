@@ -40,7 +40,7 @@ ________________________________________
 La última fase consiste en una presentación visual de los resultados obtenidos, creada en Canva, donde se resumen los hallazgos más relevantes mediante gráficos, tablas y visualizaciones interactivas que facilitan la comprensión del análisis realizado.
 ________________________________________
 🚀 Tecnologías Utilizadas
-•	Pyon para la conexión y consumo de APIs (Spotify, Last FM).
+•	Python para la conexión y consumo de APIs (Spotify, Last FM).
 •	Pandas y CSV para procesamiento y almacenamiento temporal.
 •	MySQL paramodelado relacional y consultas.
 •	SQL para extracción de información.
